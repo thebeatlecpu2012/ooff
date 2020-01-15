@@ -1,0 +1,7 @@
+{
+  "name": "Naxite",
+  "description": "Nax's Mainship Proxy Site.",
+  "repository": "https://github.com/n4nax",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["proxy", "filter", "bypass"]
+}
